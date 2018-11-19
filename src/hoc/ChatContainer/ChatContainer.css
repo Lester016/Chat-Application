@@ -1,0 +1,13 @@
+.headLists {
+    list-style: none;
+}
+
+.MessageLists {
+    background: black;
+    margin: 50px;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    font-family: sans-serif, cursive;
+    word-break: break-all;
+}

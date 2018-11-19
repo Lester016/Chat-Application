@@ -1,0 +1,12 @@
+.Message {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
+.MessageInput {
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+}
