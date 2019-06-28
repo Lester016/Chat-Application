@@ -1,4 +1,9 @@
-### You can view the actual site here: https://landian-react.firebaseapp.com/
+### Landian
+Landian is a chat application made by Lester De Guzman, Landian is a great way to meet new friends. When you use Landian, we pick someone else at random and let you talk one-on-one. To help you stay safe, chats are anonymous unless you tell someone who you are (not suggested!), and you can stop a chat at any time. Predators have been known to use Landian, so please be careful.
+
+![image](https://user-images.githubusercontent.com/37885860/60308880-97e77180-997d-11e9-815b-281e63ce8e66.png)
+
+![image](https://user-images.githubusercontent.com/37885860/60308882-9ae26200-997d-11e9-8490-8fa8005fb7af.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
